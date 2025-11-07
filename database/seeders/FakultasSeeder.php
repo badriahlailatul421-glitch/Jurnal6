@@ -1,6 +1,8 @@
 <?php
 
 namespace Database\Seeders;
+use App\Models\Fakultas;
+use App\Models\ProgramStudi;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
